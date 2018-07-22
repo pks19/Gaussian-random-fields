@@ -9,10 +9,10 @@ function [F]= RandField_Matern(lam_x,lam_y,nu,var,k,vis)
 % % through circulant embedding of the covariance matrix, SIAM J. Sci. Comput., 18:1088–1107, 1997.
 
 % % Examples
-% [F]= RandField_Matern(0.1,0.1,1,1,8,1); % Isotropic
-% [F]= RandField_Matern(2,0.02,0.5,1,8,1); % Anisotropic x
-% [F]= RandField_Matern(0.1,0.01,0.5,0.5,8,1); % Anisotropic y
-% [F]= RandField_Matern(0.01,0.01,0.5,3,8,1); % Isotropic
+% [F]= RandField_Matern(0.1,0.1,1,1,7,1); % Isotropic
+% [F]= RandField_Matern(2,0.02,0.5,1,7,1); % layering along x
+% [F]= RandField_Matern(0.01,1,0.5,0.5,7,1); % layering along y
+% [F]= RandField_Matern(0.01,0.01,0.5,3,7,1); % Isotropic
 
 % % Inputs parameters
 % % lam_x (positive)=correlation length along x-direction
