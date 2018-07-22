@@ -1,9 +1,6 @@
 function [F]= RandField_Matern(lam_x,lam_y,nu,var,k,vis)
 %% This routine generate random field in 2D using non-isotropic matern covariance function
 % % References
-% % P. Kumar, C. Oosterlee, and R. Dwight, A multigrid multilevel monte carlo method using
-% % high-order finite-volume scheme for lognormal diffusion problems, International Journal
-% % for Uncertainty Quantification,7(2017),pp.57-81.
 
 % % Dietrich, C. and Newsam, G., Fast and exact simulation of stationary Gaussian processes
 % % through circulant embedding of the covariance matrix, SIAM J. Sci. Comput., 18:1088–1107, 1997.
@@ -12,7 +9,6 @@ function [F]= RandField_Matern(lam_x,lam_y,nu,var,k,vis)
 % [F]= RandField_Matern(0.1,0.1,1,1,7,1); % Isotropic
 % [F]= RandField_Matern(2,0.02,0.5,1,7,1); % layering along x
 % [F]= RandField_Matern(0.01,1,0.5,0.5,7,1); % layering along y
-% [F]= RandField_Matern(0.01,0.01,0.5,3,7,1); % Isotropic
 
 % % Inputs parameters
 % % lam_x (positive)=correlation length along x-direction

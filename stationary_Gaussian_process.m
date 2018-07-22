@@ -1,7 +1,7 @@
 function [lam]=stationary_Gaussian_process(m,n,rho,var)
 %% This perform factorization of the Covariance matrix
 
-% % Reference:
+%%% Reference:
 % Kroese, D. P., & Botev, Z. I. (2015). Spatial Process Simulation.
 % In Stochastic Geometry, Spatial Statistics and Random Fields(pp. 369-404)
 % Springer International Publishing, DOI: 10.1007/978-3-319-10064-7_12
