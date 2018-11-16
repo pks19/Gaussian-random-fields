@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.20)  22 JUL 2018 22:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.20)  16 NOV 2018 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,10 +282,10 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 15.
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package epstopdf Info: Source file: <f1.eps>
-(epstopdf)                    date: 2018-07-22 21:59:20
+(epstopdf)                    date: 2018-11-16 13:46:08
 (epstopdf)                    size: 33910 bytes
 (epstopdf)             Output file: <f1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-22 22:07:05
+(epstopdf)                    date: 2018-11-16 13:46:08
 (epstopdf)                    size: 20526 bytes
 (epstopdf)             Command: <repstopdf --outfile=f1-eps-converted-to.pdf f1
 .eps>
@@ -299,18 +299,15 @@ File: f1-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: f1-eps-converted-to.pdf used on input line 25.
 (pdftex.def)             Requested size: 224.83601pt x 168.627pt.
 Package epstopdf Info: Source file: <f2.eps>
-(epstopdf)                    date: 2018-07-22 21:59:45
+(epstopdf)                    date: 2018-11-16 13:46:08
 (epstopdf)                    size: 29762 bytes
 (epstopdf)             Output file: <f2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-16 13:46:08
+(epstopdf)                    size: 15680 bytes
 (epstopdf)             Command: <repstopdf --outfile=f2-eps-converted-to.pdf f2
 .eps>
 (epstopdf)             \includegraphics on input line 28.
-runsystem(repstopdf --outfile=f2-eps-converted-to.pdf f2.eps)...executed safely
- (allowed).
-
-Package epstopdf Info: Result file: <f2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-22 22:14:47
-(epstopdf)                    size: 15680 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <f2-eps-converted-to.pdf, id=2, 562.1pt x 421.575pt>
 File: f2-eps-converted-to.pdf Graphic file (type pdf)
@@ -319,10 +316,10 @@ File: f2-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: f2-eps-converted-to.pdf used on input line 28.
 (pdftex.def)             Requested size: 224.83601pt x 168.627pt.
 Package epstopdf Info: Source file: <f3.eps>
-(epstopdf)                    date: 2018-07-22 22:01:50
+(epstopdf)                    date: 2018-11-16 13:46:08
 (epstopdf)                    size: 39875 bytes
 (epstopdf)             Output file: <f3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-22 22:10:17
+(epstopdf)                    date: 2018-11-16 13:46:08
 (epstopdf)                    size: 31635 bytes
 (epstopdf)             Command: <repstopdf --outfile=f3-eps-converted-to.pdf f3
 .eps>
@@ -338,33 +335,41 @@ Package pdftex.def Info: f3-eps-converted-to.pdf used on input line 31.
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./f1-ep
-s-converted-to.pdf> <./f2-eps-converted-to.pdf>] [2 <./f3-eps-converted-to.pdf>
-] (./GaussianRandomFields.aux) ) 
+s-converted-to.pdf> <./f2-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 33.
+ [2 <./f3-eps-converted-to.pdf>] (./GaussianRandomFields.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2927 strings out of 493014
- 41312 string characters out of 6133351
- 106004 words of memory out of 5000000
- 6420 multiletter control sequences out of 15000+600000
- 20191 words of font info for 41 fonts, out of 8000000 for 9000
+ 2939 strings out of 493014
+ 41430 string characters out of 6133351
+ 106045 words of memory out of 5000000
+ 6427 multiletter control sequences out of 15000+600000
+ 28564 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,11n,31p,252b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on GaussianRandomFields.pdf (2 pages, 164169 bytes).
+ 38i,11n,31p,252b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb>
+Output written on GaussianRandomFields.pdf (2 pages, 186143 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
